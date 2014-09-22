@@ -1,4 +1,4 @@
-package ch01.ducks;
+package ch01_ducks;
 
 public class FlyNoWay implements FlyBehavior {
     @Override
